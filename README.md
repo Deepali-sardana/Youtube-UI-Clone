@@ -1,3 +1,13 @@
+# Create .env file
+
+In this project you have to create .env file in which you have to store the key of the api which is unique for everyone.
+
+Link for the api:https://rapidapi.com/hub
+
+using the above link you will reach to a website in which you have to first sign up and then search youtube in the search bar and then you have to click on subscribe where there are different plans and for free to use api you have to click on $0 subscription which have certain limit
+
+Note: If your clone shows the error 429 that means your subscription is over for that use another website and again sign up to the rapidapi
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
